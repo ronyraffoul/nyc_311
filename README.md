@@ -46,6 +46,9 @@ poetry install
 poetry shell
 ```
 
+### Using pip
+
+```bash
 # Create a virtual environment
 python -m venv venv
 
@@ -57,3 +60,15 @@ source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
+```
+
+## Running the Notebooks
+
+```bash
+jupyter notebook
+```
+
+## Notes
+
+- The dataset is large and may require significant memory resources
+- GPU acceleration is supported for XGBoost if available
