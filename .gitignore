@@ -1,6 +1,8 @@
 __pycache__/
 *.pyc
-venv/
+Weather_data/
+Census_data/
+.venv/
 .env
 NYC_311_Data/
 Uptimal _ Take Home Test _ ML Engineer_Scientist.pdf
