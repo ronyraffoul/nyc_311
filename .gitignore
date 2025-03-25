@@ -1,5 +1,7 @@
 __pycache__/
 *.pyc
+Weather_data/
+Census_data/
 .venv/
 .env
 NYC_311_Data/
